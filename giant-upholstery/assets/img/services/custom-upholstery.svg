@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#122247"/><stop offset="1" stop-color="#0B1530"/></linearGradient>
+<radialGradient id="gl" cx=".8" cy=".1" r=".7"><stop offset="0" stop-color="#6B46C1" stop-opacity=".55"/><stop offset="1" stop-color="#6B46C1" stop-opacity="0"/></radialGradient>
+<linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3C6BE8"/><stop offset="1" stop-color="#6B46C1"/></linearGradient>
+<linearGradient id="skin2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2F5BD8"/><stop offset="1" stop-color="#1F3E9E"/></linearGradient>
+<linearGradient id="leather" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8B5A2B"/><stop offset="1" stop-color="#5A3716"/></linearGradient>
+</defs>
+<rect width="640" height="400" fill="url(#bg)"/><rect width="640" height="400" fill="url(#gl)"/>
+<ellipse cx="320" cy="352" rx="230" ry="16" fill="#000" opacity=".28"/>
+
+<path d="M220 84 q100 -40 200 0 q40 20 40 70 v66 H180 v-66 q0 -50 40 -70z" fill="url(#skin)"/>
+<path d="M240 108 q80 -26 160 0" stroke="#E2B34A" stroke-width="2" stroke-dasharray="7 6" fill="none" stroke-linecap="round"/>
+<path d="M170 150 q-34 6 -34 44 v80 q0 22 22 22 h30 V160z" fill="#4A3C9E"/>
+<path d="M470 150 q34 6 34 44 v80 q0 22 -22 22 h-30 V160z" fill="#4A3C9E"/>
+<path d="M200 230 q0 -22 22 -22 h196 q22 0 22 22 v66 H200z" fill="#3C6BE8"/>
+<path d="M216 228 h208" stroke="#E2B34A" stroke-width="2" stroke-dasharray="7 6" fill="none" stroke-linecap="round"/>
+<path d="M190 296 h260 v20 q0 12 -12 12 H202 q-12 0 -12 -12z" fill="#1F2F73"/>
+<path d="M206 328 l-10 22 M434 328 l10 22" stroke="#E2B34A" stroke-width="9" stroke-linecap="round"/>
+<g fill="#E2B34A"><circle cx="250" cy="160" r="4"/><circle cx="290" cy="150" r="4"/><circle cx="330" cy="146" r="4"/><circle cx="370" cy="150" r="4"/><circle cx="410" cy="160" r="4"/></g>
+<path d="M540 90 l8 18 18 8 -18 8 -8 18 -8 -18 -18 -8 18 -8z" fill="#E2B34A"/>
+<path d="M92 112 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6z" fill="#E2B34A" opacity=".8"/>
+<rect x="14" y="14" width="612" height="372" rx="18" fill="none" stroke="#E2B34A" stroke-width="2.5" stroke-dasharray="12 10" opacity=".85"/>
+</svg>
